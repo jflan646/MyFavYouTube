@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>MyFavYouTube</name>
+<widget id="com.phonegap.Ut" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>MyFavUTube</name>
     <description>
         MyFavYouTube
     </description>
     <author email="jflannery@cccc.edu" href="http://phonegap.com">
         J Flannery
     </author>
-    <content src="index.html" /> 
+    <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="phonegap-version" value="cli-8.1.1" />
